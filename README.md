@@ -26,6 +26,8 @@ La entrada de audio se realizó de la siguiente manera. Primeramente, mirando el
 # Ensamblaje de la caja
 Para poder transportar nuestro proyecto de manera correcta y segura, optamos por meterlo en una caja, más concretamente, en una caja para pedal de guitarra. Hicimos unos agujeros para poder meter tanto el interruptor como el jack de señal de audio.  Además de eso, para que se pudiera ver toda la parte de dentro, es decir, todo el conexionado y todos los elementos que componen nuestro proyecto, pusimos una tapa hecha de metacrilato transparente. A esa tapa transparente le hicimos unos agujeros, para que se pudieran ver las leds, y así, poder afinar correctamente nuestra guitarra eléctrica.
 Además de todo eso, la alimentación, en nuestro caso las 2 pilas recargables de 9 voltios cada una, también se han metido dentro de la caja, siendo fáciles de manipular en caso de que se descarguen o dejen de funcionar.
+![image](https://github.com/JADafinador/JADafindor/assets/158027588/d62bfb2a-2ff2-4268-b8da-cfd16cd8a69e)
+![n](https://github.com/JADafinador/JADafindor/assets/158027588/98b10d2a-4654-4b8c-8507-3fd218fb233f)
 # Problemas
 Las leds necesitan sus resistencias correspondientes, pero por problemas con el espacio, no pudimos poner las resistencias que van soldadas por Through Hole, así que tuvimos que hacer el esquema de la PCB que esas resistencias fueran SMD, así, se ocupó mucho menos espacio y se pudo encajar la placa de manera correcta dentro de la placa.
 # Mejoras
